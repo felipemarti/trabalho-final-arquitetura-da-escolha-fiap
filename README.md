@@ -1,10 +1,10 @@
 # trabalho-final-arquitetura-da-escolha-fiap - OpenBanking
 
-Grupo: Cláudio Taddei
-       Emerson Ramos
-       Gabriela Vieira
-       Leticia Pfaltzgraff
-       Raul
+Grupo: Cláudio Taddei,
+       Emerson Ramos,
+       Gabriela Vieira,
+       Leticia Pfaltzgraff,
+       Raul Melo Ferreira 
 
 
 Título: Transformando o Caos Financeiro em Oportunidades com Open Banking
